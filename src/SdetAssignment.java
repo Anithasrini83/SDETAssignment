@@ -5,7 +5,7 @@ public class SdetAssignment {
         //String str="FiServ Batch2 @ Pune5 & Chennai9 Learning Core JAVA!!";
         //    Write a Java Program to find the Number of Upper Case alphabets, Number of LowerCase alphabets
         //    Number of Digits, Number of Special Characters
-        String str="FiServ Batch2 @ Pune5 & Chennai9 Learning Core JAVA!!!";
+        String str="FiServ Batch2 @ Pune5 & Chennai9 Learning Core JAVA!!";
         int alphabet=0;
         int lc=0;
         int di=0;
